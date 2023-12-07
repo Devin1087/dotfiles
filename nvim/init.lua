@@ -36,6 +36,11 @@ require("lazy").setup({
   },
 
   {
+    "lewis6991/gitsigns.nvim",
+    opts = {}
+  },
+
+  {
     "nvim-lualine/lualine.nvim",
     opts = {
       options = {
